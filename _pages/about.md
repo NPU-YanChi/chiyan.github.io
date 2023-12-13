@@ -29,9 +29,9 @@ My research interests are in the area of 3D Vision, including Geometric Learning
 <style style="text/css"> .news{font-size:0.75em;} </style>
 {% include teaching.html %} -->
 
-<!-- ## Services
+## Services
 <style style="text/css"> .news{font-size:0.75em;} </style>
-{% include service.html %} -->
+{% include service.html %}
 
 ## Honors and Awards
 <style style="text/css"> .news{font-size:0.75em;} </style>

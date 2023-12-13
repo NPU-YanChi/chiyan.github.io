@@ -32,6 +32,6 @@ Previously, I obtained my Bachelor's degree in the School of Aeronautics from [N
 ## Map
 <html>
   <body align="left">
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=2d78ad&w=400&t=tt&d=AzKZGryLz3amj3g5IaqEy4_eXki3g-RXrlssFZtJFpk&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=UvWpRuuJLfBlPil0dp3FRLTGL6ePPrXrIoNjT9LJUlQ&cl=ffffff&w=a"></script>
   </body>
 </html>

@@ -32,6 +32,6 @@ Previously, I obtained my Bachelor's degree in the School of Aeronautics from [N
 ## Map
 <html>
   <body align="left">
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=UvWpRuuJLfBlPil0dp3FRLTGL6ePPrXrIoNjT9LJUlQ&cl=ffffff&w=a"></script>
+  <a href="https://mapmyvisitors.com/web/1bvmq" title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=UvWpRuuJLfBlPil0dp3FRLTGL6ePPrXrIoNjT9LJUlQ&cl=ffffff"></a>
   </body>
 </html>

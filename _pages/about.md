@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a trainee researcher at [Shanghai AI Lab](http://www.shlab.org.cn/) advised by Dr.Dong Wang, Prof.Bin Zhao, Dr.Zhigang Wang, Prof.Xuelong Li. 
+I am currently a trainee researcher at [Shanghai AI Lab](http://www.shlab.org.cn/) advised by Dr. Dong Wang, Prof. Bin Zhao, Dr. Zhigang Wang, Prof. Xuelong Li. 
 
 Previously, I obtained my Bachelor's degree in the School of Aeronautics from [Northwestern Polytechnical University](https://en.nwpu.edu.cn/), 90.05/100, Xi'an, China.
-
+∂ç
 My research interests are in the area of 3D Vision, including Geometric Learning, NeRF, Gaussian Spaltting, SLAM.
 
 

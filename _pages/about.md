@@ -29,6 +29,10 @@ Previously, I obtained my Bachelor's degree in the School of Aeronautics from [N
 <style style="text/css"> .news{font-size:0.75em;} </style>
 {% include service.html %} -->
 
+## Honors and Awards
+<style style="text/css"> .news{font-size:0.75em;} </style>
+{% include honors.html %}
+
 ## Map
 <html>
   <body align="left">

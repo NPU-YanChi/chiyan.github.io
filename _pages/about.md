@@ -12,7 +12,7 @@ I am currently a trainee researcher at [Shanghai AI Lab](http://www.shlab.org.cn
 
 Previously, I obtained my Bachelor's degree in the School of Aeronautics from [Northwestern Polytechnical University](https://en.nwpu.edu.cn/), 90.05/100, Xi'an, China.
 
-My research interests are in the area of 3D Vision, including Geometric Learning, NeRF, Gaussian Spaltting, SLAM.
+My research interests are in the area of 3D Vision and Large Language Model, including Geometric Learning, NeRF, Gaussian Spaltting, SLAM, 3DV-Based UAV Tasks.
 
 
 

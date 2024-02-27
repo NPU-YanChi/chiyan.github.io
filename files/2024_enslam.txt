@@ -2,5 +2,5 @@
   title   = {Implicit Event-RGBD Neural SLAM},
   author  = {Delin Qu and Chi Yan and Dong Wang and Jie Yin and Dan Xu and Bin Zhao and Xuelong Li},
   year    = {2023},
-  journal = {arXiv preprint arXiv: 2311.11013}
+  journal = {CVPR24}
 }
